@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "108984611767",
+    "firebase_url": "https://friendlyeats-c81c3.firebaseio.com",
+    "project_id": "friendlyeats-c81c3",
+    "storage_bucket": "friendlyeats-c81c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108984611767:android:baa7affec3afcb16582e32",
+        "android_client_info": {
+          "package_name": "com.example.alarm_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108984611767-gikrjom4lv8l5l6tba9catsd4sj0t6o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj8YCkLAOsoa6H8G0EG-7x7O4k19mVpyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108984611767-gikrjom4lv8l5l6tba9catsd4sj0t6o8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
